@@ -1,5 +1,5 @@
 [workspace]
-members = [
+members = [ "app/router-bot",
     "programs/*"
 ]
 resolver = "2"
